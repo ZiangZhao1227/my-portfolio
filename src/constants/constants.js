@@ -23,12 +23,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: "Blog App",
+    title: "iMedia",
     description:
-      "A project carried from the design stage to deployment in order to showcase professional abilities. This application can receive, send, and delete blogs using GET, POST, and DELETE requests from the Fetch API. The application utilizes a JSON server to create a fake REST API for fetching JSON objects.",
-    image: "/images/blogapp.png",
-    tags: ["React", "REST API","JavaScript","JSON"],
-    source: "https://github.com/ZiangZhao1227/simple-blog",
+      "A fullstack MERN online social app. Through, iMedia, users are able to login, register, post a blog, upload an image and like a post and display all data from MongoDB with iMedia API. All the images that users uploaded will be saved in the API.",
+    image: "/images/iMedia.png",
+    tags: ["React", "REST API","Typescript","MongoDB"],
+    source: "https://github.com/ZiangZhao1227/iMedia",
     id: 2,
   },
   {
